@@ -1,3 +1,5 @@
+#6/11 class1
+
 #數字
 print(21)
 #字串
@@ -20,8 +22,8 @@ data = 6**2 #二次方
 print(data)
 print('Hello'+'World')
 #提示文字
-n1 = input("Enter a number:")
-n2 = input("Enter another number:")
+n1 = input("Enter a Number:")
+n2 = input("Enter another Number:")
 result = n1 + n2
 print(result)
 n1 = input("Enter a number:")
